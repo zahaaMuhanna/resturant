@@ -1,0 +1,101 @@
+@media (max-width: 576px) {
+    .navbar .logo{
+        width: 100% !important;
+        float: none;
+    }
+    .navbar .logo img{
+        margin-left: 42%;
+        height: 35px;
+    }
+    .navbar .nav{
+        width: 100% !important;
+        float: none;
+        margin-top: 25px;
+        margin-left: 0px;
+    }
+    .header .header-content .visitbutton{
+        color: black;
+    }
+    .navbar .nav li a{
+        font-size: 15px;
+    }
+    .navbar .nav li{
+        margin-left: 0px;
+    }
+    .header-content img{
+        width: 50%;
+        margin-top: 20px;
+    }
+    .header .header-content h1{
+        font-size: 40px;
+    }
+    
+    .chef, .info{
+        float: none;
+    }
+    .chef {
+        margin-left: 120px;
+        float: none;
+    }
+    .information .info {
+            width: 80%;
+    }
+    .information .info h2{
+        font-size: 30px;
+    }
+    
+    .review .reviewers{
+        width: 90%;
+        padding: 100px 0 100px 20px;
+    }
+    .review .restimage{
+       width: 75%;
+       margin: 20px 25px 50px 10px;
+    }
+    .review .restimage img{
+        width: 100%;
+    }
+    .cafe{
+        background-size: cover;
+    }
+    .dishes{
+        background-color: #F8F8F8;
+        padding-left: 30px;
+        padding-right: 0;
+    }
+    .dishes .menu .float-item{
+        width: 100%;
+    }
+    .dishes .flagdishes h2{
+        font-size: 40px;
+    }
+    .dishes .menu p{
+        width: 100%;
+    }
+    .contact .contactinfo{
+        width: 100%;
+    }
+    .contact .map{
+        width: 100%;
+    }
+    .aboutsec .aboutus{
+        width: 90%;
+        margin-left: 15px;
+        margin-right: 0;
+    }
+    .aboutsec .links{
+        width: 90%;
+        margin-left: 15px;
+        margin-right: 0;
+    }
+    .aboutsec .hours{
+        width: 90%;
+        margin-left: 15px;
+        margin-right: 0;
+    }
+    .aboutsec .condetails{
+        width: 90%;
+        margin-left: 15px;
+        margin-right: 0;
+    }
+}
